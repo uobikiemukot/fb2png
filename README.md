@@ -19,7 +19,7 @@ none
 
 ## supported image format
 
--   png by stb_image_write
+-   png
 
 ## license
 
